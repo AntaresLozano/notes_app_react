@@ -1,4 +1,4 @@
-export { default as Greetings } from './Greetings';
-export { default as Habit } from './Habit';
-export { default as HabitsList } from './HabitsList';
+export { default as Greetings } from './greetings/Greetings';
+export { default as Habit } from './habit/Habit';
 export { default as HabitsForm } from './habitsForm/HabitsForm';
+export { default as HabitsList } from './habitsList/HabitsList';

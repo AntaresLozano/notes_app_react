@@ -15,4 +15,10 @@
 .left{
   display: flex;
   width: 50vw;
+  height: 600px;
+}
+.rigth{
+  padding-top: 30px;
+  width: 50vw;
+  height: 600px;
 }
